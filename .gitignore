@@ -1,0 +1,188 @@
+git_squash_multiple_commits_to_a_single_commit.txt
+matches.npy
+demo_numpy_load.py
+arXiv_version2_release_important_information.txt
+mapillaryscripts/gen_val_json_file_for_eval_Scale_1024x768.py
+run_experiments_override_exp_folders.py
+command_to_take_backup_of_euler_experiments.txt
+euler_template_slurm_syn2map.sh
+python_scripts_to_be_added_for_euler_jobs.py
+edaps_euler_exp_list.txt
+command_to_kill_all_processes.txt
+euler_template_slurm_syn2city.sh
+euler_commands.txt
+edaps_experiments/*
+things_to_consider_when_you_use_this_repo_for_your_own_use.txt
+experiments_original.py
+.pre-commit-config.yaml
+for_local_use.py
+README_daformer.md
+TODO.txt
+euler_pip_list.txt
+resources/animated_gif_stuff/*
+mmdet/.mim
+mmdet/apis/__pycache__
+mmdet/__pycache__
+mmdet/core/__pycache__
+mmdet/core/anchor/__pycache__
+mmdet/core/bbox/__pycache__
+mmdet/core/bbox/assigners/__pycache__
+mmdet/core/bbox/iou_calculators/__pycache__
+mmdet/core/bbox/match_costs/__pycache__
+mmdet/core/bbox/samplers/__pycache__
+mmdet/core/data_structures/__pycache__
+mmdet/core/evaluation/__pycache__
+mmdet/core/export/__pycache__
+mmdet/core/hook/__pycache__
+mmdet/core/mask/__pycache__
+mmdet/core/optimizers/__pycache__
+mmdet/core/post_processing/__pycache__
+mmdet/core/utils/__pycache__
+mmdet/core/visualization/__pycache__
+mmdet/datasets/__pycache__
+mmdet/datasets/api_wrappers/__pycache__
+mmdet/datasets/pipelines/__pycache__
+mmdet/datasets/samplers/__pycache__
+mmdet/models/__pycache__
+mmdet/models/backbones/__pycache__
+mmdet/models/dense_heads/__pycache__
+mmdet/models/detectors/__pycache__
+mmdet/models/losses/__pycache__
+mmdet/models/necks/__pycache__
+mmdet/models/plugins/__pycache__
+mmdet/models/roi_heads/__pycache__
+mmdet/models/seg_heads/__pycache__
+mmdet/models/utils/__pycache__
+mmdet/utils/__pycache__
+
+
+panop_eval_25-04-2022_20-45-50-049418/*
+panoptic/*
+panoptic_eval/*
+semantic/*
+matches.json
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+
+data
+.vscode
+.idea
+
+# custom
+*.pkl
+*.pkl.json
+*.log.json
+work_dirs/
+mmseg/.mim
+
+# Pytorch
+*.pth
+
+# euler_log_v1.txt
+jobs/
+configs/tmp_param.json
+configs/generated/
+*.pdf
+*.pgf
