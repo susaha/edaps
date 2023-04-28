@@ -4,7 +4,7 @@
 [Anton Obukhov](https://www.obukhov.ai/), [Dengxin Dai](https://vas.mpi-inf.mpg.de/dengxin/), 
 and [Luc Van Gool](https://scholar.google.de/citations?user=TwMib_QAAAAJ&hl=en)**
 
-**[[Arxiv]](TODO)**
+**[[Arxiv]](http://arxiv.org/abs/2304.14291)**
 
 <img src="resources/teaser.png" width=500>
 
@@ -52,16 +52,18 @@ whereas EDAPS successfully bridges the domain gap by learning the correct semant
 EDAPS produces better panoptic segmentation for "bus", "rider", "motorbike", "car", "traffic sign".
 
 To learn more about EDAPS, we invite you to refer to our 
-[[Paper]](TODO).
+[[Paper]](http://arxiv.org/abs/2304.14291).
 
 If you find our project valuable for your research, we kindly request that you consider citing it.
 
 ```
-@InProceedings{saha2023Edaps,
-  title={EDAPS: Enhanced Domain-Adaptive Panoptic Segmentation },
-  author={Saha, Suman and Hoyer, Lukas and Obukhov, Anton and Dai, Dengxin and Van Gool, Luc},
-  booktitle={arXiv},
-  year={2023}
+@misc{saha2023edaps,
+      title={EDAPS: Enhanced Domain-Adaptive Panoptic Segmentation}, 
+      author={Suman Saha and Lukas Hoyer and Anton Obukhov and Dengxin Dai and Luc Van Gool},
+      year={2023},
+      eprint={2304.14291},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
 
