@@ -6,6 +6,8 @@ and [Luc Van Gool](https://scholar.google.de/citations?user=TwMib_QAAAAJ&hl=en)*
 
 **[[Arxiv]](http://arxiv.org/abs/2304.14291)**
 
+:bell: We are happy to announce that EDAPS was accepted at **ICCV23**. :bell:
+
 <img src="resources/teaser.png" width=500>
 
 ## Overview
