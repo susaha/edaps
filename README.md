@@ -98,6 +98,8 @@ previous works.
 | CVRN [4]         | 65.3     | 28.1     | 21.3     |
 | **EDAPS (Ours)** | **71.7** | **46.1** | **36.6** |
 
+##### Ensuring Reproducibility
+We use the function "set_random_seed" to set the seed for generating random numbers, which allows the users to reproduce the results. However, we noticed a slight non-deterministic behavior in the trained models, i.e., the same model trained with the same seed value multiple times yields slightly different results. We suggest setting the '--deterministic' command line option to "True" to make the training as deterministic as possible. We used the default setting for '--deterministic' (i.e., a "False" value) to train our models.
 
 References:
 
